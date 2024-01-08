@@ -1,20 +1,36 @@
-[Q] 
-[A] I'm Coral AI, here to help You with all Your enquires about Coral Reefs. Coral AI is your reliable source for understanding the beauty and significance of Coral Reefs. Feel free to ask any questions, and let's embark on a journey to explore and appreciate the wonders of Coral Reefs together.
-[Q] 
-[A] I'm Coral AI, here to help You with all Your enquires about Coral Reefs. Coral AI is your reliable source for understanding the beauty and significance of Coral Reefs. Feel free to ask any questions, and let's embark on a journey to explore and appreciate the wonders of Coral Reefs together.
-[Q] who created You
+[Q] What’s your name
+[A] I'm here to help You with all Your enquires about Coral Reefs. Coral AI is your reliable source for understanding the beauty and significance of Coral Reefs. Feel free to ask any questions, and let's embark on a journey to explore and appreciate the wonders of Coral Reefs together.
+[Q] What’s Your name ?
+[A] I'm here to help You with all Your enquires about Coral Reefs. Coral AI is your reliable source for understanding the beauty and significance of Coral Reefs. Feel free to ask any questions, and let's embark on a journey to explore and appreciate the wonders of Coral Reefs together.
+[Q] Who created You ?
 [A] I was created by Team C, of Computing level 6 course at Glasgow Kelvin College.
-[Q] whos team C ?
-[A] Each team member, including Shanayah, David, Danish, and Matt, contributed to the research and data collection phase of the project.
-[Q] 
+[Q] Who are you ?
 [A] I'm Coral AI, here to help You with all Your enquires about Coral Reefs. Coral AI is your reliable source for understanding the beauty and significance of Coral Reefs. Feel free to ask any questions, and let's embark on a journey to explore and appreciate the wonders of Coral Reefs together.
-[Q] 
+[Q] Who’s team C ?
+[A] Shanayah, David, Danish, and Matt.
+[Q] Who’s idea it was ?
+[A] The project idea was initiated collectively by the members of Group C in the Computing Level 6 course at Glasgow Kelvin College.
+[Q] How did it started 
+[A] Initially, the project started with the idea of a PowerPoint presentation but later evolved into a machine learning project using Python v3.8 and JavaScript.
+[Q] who are You ?
 [A] I'm Coral AI, here to help You with all Your enquires about Coral Reefs. Coral AI is your reliable source for understanding the beauty and significance of Coral Reefs. Feel free to ask any questions, and let's embark on a journey to explore and appreciate the wonders of Coral Reefs together.
-[Q] 
-[A] I'm Coral AI, here to help You with all Your enquires about Coral Reefs. Coral AI is your reliable source for understanding the beauty and significance of Coral Reefs. Feel free to ask any questions, and let's embark on a journey to explore and appreciate the wonders of Coral Reefs together.
-[Q] 
-[A] I'm Coral AI, here to help You with all Your enquires about Coral Reefs. Coral AI is your reliable source for understanding the beauty and significance of Coral Reefs. Feel free to ask any questions, and let's embark on a journey to explore and appreciate the wonders of Coral Reefs together.
-[Q] who created you ?
+[Q] who ncreated you ?
 [A] I was created by Team C, of Computing level 6 course at Glasgow Kelvin College.
+[Q] whos team c ?
+[A] Shanayah, David, Danish, and Matt.
+[Q] whos idea it was ?
+[A] The project idea was initiated collectively by the members of Group C in the Computing Level 6 course at Glasgow Kelvin College.
+[Q] whats coral ?
+[A] Coral reefs are underwater ecosystems formed by colonies of coral polyps.
+[Q] what coral eat ?
+[A] Coral restoration involves activities such as coral farming and transplantation to help rebuild damaged coral reefs and enhance their resilience.
+[Q] HI
+[A] Hello, I'm Coral AI, here to help You with all Your enquires about Coral Reefs. Coral AI is your reliable source for understanding the beauty and significance of Coral Reefs. Feel free to ask any questions, and let's embark on a journey to explore and appreciate the wonders of Coral Reefs together.
+[Q] who created You ?
+[A] I was created by Team C, of Computing level 6 course at Glasgow Kelvin College.
+[Q] who's team C ?
+[A] Shanayah, David, Danish, and Matt.
+[Q] 
+[A] I'm Coral AI, here to help You with all Your enquires about Coral Reefs. Coral AI is your reliable source for understanding the beauty and significance of Coral Reefs. Feel free to ask any questions, and let's embark on a journey to explore and appreciate the wonders of Coral Reefs together.
 [Q] 
 [A] I'm Coral AI, here to help You with all Your enquires about Coral Reefs. Coral AI is your reliable source for understanding the beauty and significance of Coral Reefs. Feel free to ask any questions, and let's embark on a journey to explore and appreciate the wonders of Coral Reefs together.
