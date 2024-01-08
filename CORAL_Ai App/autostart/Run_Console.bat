@@ -1,0 +1,3 @@
+@echo off
+echo Running Python Service in Console...
+python service_wrapper.py debug
