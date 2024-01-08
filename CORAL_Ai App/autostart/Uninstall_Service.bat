@@ -1,0 +1,3 @@
+@echo off
+echo Uninstalling Python Service...
+python service_wrapper.py remove

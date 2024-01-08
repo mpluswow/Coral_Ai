@@ -1,0 +1,3 @@
+@echo off
+echo Stopping Python Service...
+python service_wrapper.py stop

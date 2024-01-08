@@ -1,0 +1,3 @@
+@echo off
+echo Starting Python Service...
+python service_wrapper.py start

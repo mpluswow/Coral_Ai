@@ -1,0 +1,3 @@
+@echo off
+echo Installing Python Service...
+python service_wrapper.py install
